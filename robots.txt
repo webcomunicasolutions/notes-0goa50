@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webcomunicasolutions.github.io/notes-0goa50/sitemap.xml
